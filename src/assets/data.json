@@ -1,0 +1,149 @@
+{
+    "movies": [
+        {
+            "movieId": 1,
+            "movieName": "Yeh Jawaani Hai Deewani",
+            "posterUrl": "https://i.pinimg.com/originals/34/5f/ec/345fecf5e269212d9a287508648ec173.jpg",
+            "cast": [
+                "Deepika Padukone",
+                "Ranbir Kapoor",
+                "Aditya Roy Kapoor",
+                "Kalki"
+            ],
+            "genre": "Romance/Drama",
+            "details": "Kabir and Naina meet during a trekking trip where she falls in love with him but refrains from expressing it. They soon drift apart but end up meeting at a friend's wedding.",
+            "timing": "2h 56m",
+            "rating": "4",
+            "year": "2013"
+        },
+        {
+            "movieId": 2,
+            "movieName": "Goliyon Ki Raasleela Ram-Leela",
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDljNWM1MzctM2E5NC00YjFkLWI2MDUtNzJkNGIyMGZmN2MwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+            "cast": [
+                "Deepika Padukone",
+                "Ranveer Singh"
+            ],
+            "genre": "Romance/Drama",
+            "details": "Ram and Leela love each other but cannot stay together as their families, Rajadi and Sanera, have been at war with each other for the past 500 years. In the end, they both need to make a sacrifice.",
+            "timing": "2h 35m",
+            "rating": "3",
+            "year": "2013"
+        },
+        {
+            "movieId": 3,
+            "movieName": "Padmaavat",
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWZjMjkwM2QtZTJiMy00MmI5LWI2YjEtMmY5NjNiYTE2NTBiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+            "cast": [
+                "Deepika Padukone",
+                "Ranveer Singh",
+                "Shahid Kapoor"
+            ],
+            "genre": "Romance/Action",
+            "details": "Queen Padmavati is happily married to a Rajput ruler until a tyrant Sultan, Alauddin Khilji, enters their life and calls a war on their kingdom due to his obsession with the queen.",
+            "timing": "2h 44m",
+            "rating": "4",
+            "year": "2018"
+        },
+        {
+            "movieId": 4,
+            "movieName": "Raazi",
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/81n0gqi-BfL._SL1213_.jpg",
+            "cast": [
+                "Alia Bhatt",
+                "Vicky Kaushal"
+            ],
+            "genre": "Action/Thriller",
+            "details": "Sehmat Khan, an undercover RAW agent, is married into a Pakistani family by her father so that she can get some valuable piece of information about the enemy.",
+            "timing": "2h 20m",
+            "rating": "5",
+            "year": "2018"
+        },
+        {
+            "movieId": 5,
+            "movieName": "Uri: The Surgical Strike",
+            "posterUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHvgulsbkwf4qzDU4E_ofYWYBVXuKW16sw70QAp8iITBXB56Ee",
+            "cast": [
+                "Vicky Kaushal",
+                "Yami Gautam",
+                "Kirti Kulhari"
+            ],
+            "genre": "War/Action",
+            "details": "Major Vihaan Singh Shergill of the Indian Army leads a covert operation against a group of militants who attacked a base in Uri, Kashmir, in 2016 and killed many soldiers.",
+            "timing": "2h 18m",
+            "rating": "4",
+            "year": "2019"
+        },
+        {
+            "movieId": 6,
+            "movieName": "Shubh Mangal Saavdhan",
+            "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTT305q1pRNz3pb05DObOv-Wbp2VrGcjMtqpOdyaLJoQY25Kurs",
+            "cast": [
+                "Ayushmann Khurrana",
+                "Bhoomi Pednekar"
+            ],
+            "genre": "Drama/Comedy",
+            "details": "A shy boy, Mudit, manages to woo Sugandha and the two decide to get married. However, before the wedding, their relationship undergoes a setback as they discover his erectile dysfunction.",
+            "timing": "1h 59m",
+            "rating": "3",
+            "year": "2017"
+        },
+        {
+            "movieId": 7,
+            "movieName": "Andhadhun",
+            "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-PKn3ieG8r0-z_5YKGpIiWXBbIrRHwxxkzWQwfVumxi7TGNn4",
+            "cast": [
+                "Ayushmann Khurrana",
+                "Radhika Apte",
+                "Tabu"
+            ],
+            "genre": "Comedy/Crime",
+            "details": "Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.",
+            "timing": "2h 30m",
+            "rating": "4",
+            "year": "2018"
+        },
+        {
+            "movieId": 8,
+            "movieName": "Kesari",
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTRhZWVkNTctMzRmYy00MDk1LWIzNDYtMjA1ZGE5YWJkYjU0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+            "cast": [
+                "Akshay Kumar",
+                "Parineeti Chopra"
+            ],
+            "genre": "War/Action",
+            "details": "Havildar Ishar Singh, a soldier in the British Indian Army, leads 21 Sikh soldiers in a fight against 10,000 Pashtun invaders. However, what unfolds is the greatest last stand wars of all time.",
+            "timing": "2h 40m",
+            "rating": "4",
+            "year": "2019"
+        },
+        {
+            "movieId": 9,
+            "movieName": "Rustom",
+            "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4H2JWKIA8a2_gGVSStPrGQNwGCJHbkbsx_q7Ue1cXN1k1wvC7",
+            "cast": [
+                "Akshay Kumar",
+                "Ileana D'Cruz"
+            ],
+            "genre": "Thriller/Crime",
+            "details": "Rustom, a naval officer, shares a happy relationship with his wife Cynthia. Soon, he discovers her affair with Vikram, a close friend, and is accused of murdering him.",
+            "timing": "2h 30m",
+            "rating": "4",
+            "year": "2016"
+        },
+        {
+            "movieId": 10,
+            "movieName": "Padman",
+            "posterUrl": "https://www.movienewsletters.net/photos/244211R1.jpg",
+            "cast": [
+                "Akshay Kumar",
+                "Radhika Apte"
+            ],
+            "genre": "Drama/Comedy",
+            "details": "Laxmikant is upset when he sees Gayatri, his wife, using an unhygienic cloth during her menstrual cycle. Thereafter, he creates a machine that can make affordable sanitary pads and raises awareness.",
+            "timing": "2h 20m",
+            "rating": "5",
+            "year": "2018"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col-md-4">
+        <img [src]="movieDetails.posterUrl" class="img-fluid image-settings">
+    </div>
+    <div class="col-md-8">
+        <h2>
+            {{movieDetails.movieName}}
+        </h2>
+        <b>Genre: </b> {{movieDetails.genre}} <br>
+        <b>Timing: </b> {{movieDetails.timing}} <br>
+        <b>Cast: </b> {{movieDetails.cast}}<br>
+        <a href="https://in.bookmyshow.com/explore/home/pune" class="btn btn-primary" target="_blank">Book Now</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-8 details-div">
+        {{movieDetails.details}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Suggestions</h2>
+    </div>
+    <div class="col-md-2" *ngFor="let movie of allMovies">
+        <div (click)="gotoDetails(movie)">
+            <img [src]="movie.posterUrl" class="img-fluid">
+        </div>
+    </div>
+</div>

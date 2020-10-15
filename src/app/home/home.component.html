@@ -1,0 +1,16 @@
+<div class="row">
+    <div class="col-md-4 movie-margin" *ngFor="let movie of movieData">
+        <div class="card card-width" (click) ="gotoDetails(movie)">
+            <img [src]="movie.posterUrl" class="card-img-top img-fluid image-settings">
+            <div class="card-body">
+                <h5 class="card-title">{{movie.movieName}}</h5>
+                <div class="card-text">
+                    <b>Cast</b>: {{movie.cast}}
+                </div>
+                <div class="card-text">
+                    <b>Rating</b>: {{movie.rating}}/5
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
